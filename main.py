@@ -39,4 +39,4 @@ dice.scan()
 
 while True:
     display_value(current_level, current_value)
-    time.sleep(1)  # Delay for 1 second before updating again
+    time.sleep(1) 
